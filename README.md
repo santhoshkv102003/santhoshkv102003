@@ -24,7 +24,7 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhoshkv102003)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ##  DSA & Problem Solving:
@@ -34,7 +34,13 @@
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Santhoshkv)
 
 ---
+# 🌐 Connect with Me:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhoshkv102003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-kv-8a66322a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2596be?style=for-the-badge&logoColor=white)](https://santhoshkv102003.github.io/Kv_Portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-4169e1?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-q1ieXLZ7KUa6QXUUC-ojzlAnevEMRbe/view?usp=drivesdk)
 
+---
 #  Projects:
 * **Smart Token Management:** [https://clinic-token-management-1.onrender.com/](https://clinic-token-management-1.onrender.com/)
 
