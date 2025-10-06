@@ -44,9 +44,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=santhoshkv102003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=santhoshkv102003)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=santhoshkv102003&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkv102003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkv102003)
 
 ---
 ## Github Activity
