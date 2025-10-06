@@ -1,3 +1,11 @@
+<div align="center">
+
+  <!-- Capsule Header for Santhosh KV -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6,06B6D4&height=200&section=header&text=Santhosh%20KV&fontSize=60&fontAlignY=35&desc=Problem%20Solver%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=3B82F6&strokeWidth=2" alt="Header" />
+
+</div>
+
+
 ## About Me
 
 - I’m **Santhosh KV**, a passionate Computer Science and Engineering student focused on coding, problem-solving, and building impactful applications.
