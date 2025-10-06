@@ -52,6 +52,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkv102003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## Github Activity
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santhoshkv102003)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![](https://visitcount.itsvg.in/api?id=santhoshkv102003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
