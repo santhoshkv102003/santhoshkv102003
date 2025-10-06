@@ -49,10 +49,25 @@
 ---
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=santhoshkv102003)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=santhoshkv102003)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkv102003)
+## 📊 **GitHub Stats:**
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=santhoshkv102003&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_radius=10" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=santhoshkv102003&theme=default&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkv102003&layout=compact&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&border_radius=10" />
+</div>
+
 
 ---
 ## Github Activity
