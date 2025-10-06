@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Santhosh KV<br><br>🎓 Computer Science and Engineering Student passionate about coding, problem-solving, and building impactful applications.<br>💻 Currently learning: Full-Stack Development, Java, and SQL.<br>📚 Focusing on: Data Structures & Algorithms (DSA), Database Systems, and Core CS Fundamentals (OOP, OS, CN).<br>🚀 Projects: Expense Tracker, To-Do List App, and Portfolio Website.<br>🎯 Goal: To become a skilled Software Developer and work on scalable real-world systems.<br>🌱 Interests: Backend Development, System Design, and AI-powered applications.<br>📫 How to reach me: kvsanthosh1011@gmail.com
+#  About Me:
+ Hi, I’m Santhosh KV<br><br> Computer Science and Engineering Student passionate about coding, problem-solving, and building impactful applications.<br> Currently learning: Full-Stack Development, Java, and SQL.<br> Focusing on: Data Structures & Algorithms (DSA), Database Systems, and Core CS Fundamentals (OOP, OS, CN).<br> Projects: Expense Tracker, To-Do List App, and Portfolio Website.<br> Goal: To become a skilled Software Developer and work on scalable real-world systems.<br> Interests: Backend Development, System Design, and AI-powered applications.<br> How to reach me: kvsanthosh1011@gmail.com
 
 
 # 💻 Tech Stack:
