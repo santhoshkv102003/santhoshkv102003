@@ -48,6 +48,8 @@
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Santhoshkv)
 
 ---
+
+
 #  Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhoshkv102003)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-kv-8a66322a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -55,6 +57,36 @@
 [![Resume](https://img.shields.io/badge/Resume-4169e1?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-q1ieXLZ7KUa6QXUUC-ojzlAnevEMRbe/view?usp=drivesdk)
 
 ---
+#  Projects
+<table align="center" width="80%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+      <h3>Smart Token System</h3>
+      <p>A token management system for clinics, streamlining patient queues and appointments.</p>
+      <a href="https://clinic-token-management-1.onrender.com/" target="_blank">🔗 Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="80%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+      <h3>Portfolio Website</h3>
+      <p>My personal portfolio showcasing projects, skills, and contact information.</p>
+      <a href="https://santhoshkv102003.github.io/Kv_Portfolio/" target="_blank">🔗 Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="80%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+      <h3>Attendance System</h3>
+      <p>Online attendance system for managing and tracking student attendance.</p>
+      <a href="https://santhoshkv102003.github.io/Attendance/" target="_blank">🔗 Live Demo </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 **GitHub Stats:**
