@@ -34,7 +34,7 @@
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Santhoshkv)
 
 ---
-# 🌐 Connect with Me:
+#  Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhoshkv102003)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-kv-8a66322a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2596be?style=for-the-badge&logoColor=white)](https://santhoshkv102003.github.io/Kv_Portfolio/)
@@ -42,7 +42,8 @@
 
 ---
 #  Projects:
-* **Smart Token Management:** [https://clinic-token-management-1.onrender.com/](https://clinic-token-management-1.onrender.com/)
+* **Smart Token Management:** [clinic-token-management](https://clinic-token-management-1.onrender.com/)
+* 
 
 ---
 
