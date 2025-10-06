@@ -41,9 +41,8 @@
 [![Resume](https://img.shields.io/badge/Resume-4169e1?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-q1ieXLZ7KUa6QXUUC-ojzlAnevEMRbe/view?usp=drivesdk)
 
 ---
-#  Projects:
+#  Project:
 * **Smart Token Management:** [clinic-token-management](https://clinic-token-management-1.onrender.com/)
-* 
 
 ---
 
