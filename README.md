@@ -41,10 +41,7 @@
 [![Resume](https://img.shields.io/badge/Resume-4169e1?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-q1ieXLZ7KUa6QXUUC-ojzlAnevEMRbe/view?usp=drivesdk)
 
 ---
-#  Project:
-* **Smart Token Management:** [clinic-token-management](https://clinic-token-management-1.onrender.com/)
 
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=santhoshkv102003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
