@@ -57,11 +57,42 @@
 [![Resume](https://img.shields.io/badge/Resume-4169e1?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-q1ieXLZ7KUa6QXUUC-ojzlAnevEMRbe/view?usp=drivesdk)
 
 ---
-#  Projects:
+## Projects:
 
-[![Smart Token System](https://img.shields.io/badge/Smart%20Token%20System-228B22?style=for-the-badge&logo=vercel&logoColor=white)](https://clinic-token-management-1.onrender.com/)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-2596be?style=for-the-badge&logo=google-chrome&logoColor=white)](https://santhoshkv102003.github.io/Kv_Portfolio/)
-[![Attendance System](https://img.shields.io/badge/Attendance%20System-8B0000?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://santhoshkv102003.github.io/Attendance/)
+<table>
+<tr>
+<td align="left" width="50%" valign="top">
+
+### [Smart Token System](https://clinic-token-management-1.onrender.com/)
+*Token management system for clinics*  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+A token management system streamlining patient queues and appointments.
+
+---
+
+### [Portfolio Website](https://santhoshkv102003.github.io/Kv_Portfolio/)
+*Personal portfolio showcasing projects & skills*  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Showcases projects, skills, and contact info with modern design.
+
+</td>
+
+<td align="left" width="50%" valign="top">
+
+### [Attendance System](https://santhoshkv102003.github.io/Attendance/)
+*Online student attendance tracker*  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+Manages and tracks student attendance efficiently.
+
+</td>
+</tr>
+</table>
 
 
 ## 📊 **GitHub Stats:**
