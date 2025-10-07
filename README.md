@@ -48,6 +48,8 @@
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Santhoshkv)
 
 ---
+# My CodeChef Stats
+[![CodeChef Rating](https://codechef-stats-api.vercel.app/api/card?username=kvsanthosh&theme=dark)](https://www.codechef.com/users/kvsanthosh)
 
 #  Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhoshkv102003)
