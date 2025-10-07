@@ -1,9 +1,9 @@
-<div align="center">
+<!-- Capsule Banner (Galaxy Waving Style) -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20Santhosh%20KV!&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40)
 
-  <!-- Capsule Header for Santhosh KV -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6,06B6D4&height=200&section=header&text=Santhosh%20KV&fontSize=60&fontAlignY=35&desc=Problem%20Solver%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=3B82F6&strokeWidth=2" alt="Header" />
+<!-- Neon Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Problem+Solver+%7C+Full-Stack+Developer)](https://git.io/typing-svg)
 
-</div>
 
 
 ## About Me
