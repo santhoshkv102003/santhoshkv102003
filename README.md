@@ -58,31 +58,10 @@
 
 ---
 #  Projects:
-<table align="center" width="80%" style="border-collapse: collapse; margin-bottom: 20px;">
-  <tr>
-    <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-      <h3>Smart Token System</h3>
-      <p>A token management system for clinics, streamlining patient queues and appointments.</p>
-      <a href="https://clinic-token-management-1.onrender.com/" target="_blank">🔗 Live Demo</a>
-    </td>
-<td>
-    <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-      <h3>Portfolio Website</h3>
-      <p>My personal portfolio showcasing projects, skills, and contact information.</p>
-      <a href="https://santhoshkv102003.github.io/Kv_Portfolio/" target="_blank">🔗 Live Demo</a>
-    </td>
-  </tr>
-</table>
 
-<table align="center" width="80%" style="border-collapse: collapse; margin-bottom: 20px;">
-  <tr>
-    <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-      <h3>Attendance System</h3>
-      <p>Online attendance system for managing and tracking student attendance.</p>
-      <a href="https://santhoshkv102003.github.io/Attendance/" target="_blank">🔗 Live Demo </a>
-    </td>
-  </tr>
-</table>
+[![Smart Token System](https://img.shields.io/badge/Smart%20Token%20System-228B22?style=for-the-badge&logo=vercel&logoColor=white)](https://clinic-token-management-1.onrender.com/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-2596be?style=for-the-badge&logo=google-chrome&logoColor=white)](https://santhoshkv102003.github.io/Kv_Portfolio/)
+[![Attendance System](https://img.shields.io/badge/Attendance%20System-8B0000?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://santhoshkv102003.github.io/Attendance/)
 
 
 ## 📊 **GitHub Stats:**
