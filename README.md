@@ -57,7 +57,7 @@
 [![Resume](https://img.shields.io/badge/Resume-4169e1?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-q1ieXLZ7KUa6QXUUC-ojzlAnevEMRbe/view?usp=drivesdk)
 
 ---
-#  Projects
+#  Projects:
 <table align="center" width="80%" style="border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
@@ -65,11 +65,7 @@
       <p>A token management system for clinics, streamlining patient queues and appointments.</p>
       <a href="https://clinic-token-management-1.onrender.com/" target="_blank">🔗 Live Demo</a>
     </td>
-  </tr>
-</table>
-
-<table align="center" width="80%" style="border-collapse: collapse; margin-bottom: 20px;">
-  <tr>
+<td>
     <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
       <h3>Portfolio Website</h3>
       <p>My personal portfolio showcasing projects, skills, and contact information.</p>
