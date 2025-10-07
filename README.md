@@ -48,6 +48,11 @@
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Santhoshkv)
 
 ---
+## My LeetCode Stats
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Santhosh1156?theme=dark&font=Roboto&ext=heatmap&border=0&activity=1)
+![LeetCode Contest Stats](https://leetcard.jacoblin.cool/Santhosh1156?theme=dark&font=Roboto&ext=contest)
+
 
 
 #  Connect with Me:
