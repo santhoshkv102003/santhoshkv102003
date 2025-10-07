@@ -61,7 +61,7 @@
 
 <table>
 <tr>
-<td align="left" width="50%" valign="top">
+<td align="left" width="50%" valign="top" style="background-color: #ffffff; border-radius: 10px; padding: 15px;">
 
 ### [Smart Token System](https://clinic-token-management-1.onrender.com/)
 *Token management system for clinics*  
@@ -82,7 +82,7 @@ Showcases projects, skills, and contact info with modern design.
 
 </td>
 
-<td align="left" width="50%" valign="top">
+<td align="left" width="50%" valign="top" style="background-color: #ffffff; border-radius: 10px; padding: 15px;">
 
 ### [Attendance System](https://santhoshkv102003.github.io/Attendance/)
 *Online student attendance tracker*  
@@ -93,6 +93,8 @@ Manages and tracks student attendance efficiently.
 </td>
 </tr>
 </table>
+
+
 
 
 ## 📊 **GitHub Stats:**
